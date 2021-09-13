@@ -2,4 +2,4 @@
 Text To Speech application with front end design with tkinter module.
 
 
-![alt text](https://ibb.co/CMKz4fD)
+![alt text](https://i.ibb.co/2s3yRTH/screenshot.jpg)
